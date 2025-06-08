@@ -1,17 +1,34 @@
+## Autonomous Payment Agents with Payman AI SDK
+A powerful system of intelligent agents that manage financial workflows — from funding bounties and running payroll to paying invoices, issuing refunds, and profit-sharing — all seamlessly powered by a single Payman wallet.
 
-# Payman Dashboard
+## ⚙️ Overview
+This project leverages the Payman AI SDK to build autonomous agents capable of executing complex, rule-based and AI-assisted financial operations. Each agent interacts with the Payman API through a unified wallet interface to handle critical business tasks — with zero manual intervention.
 
-A modern, responsive web application for managing payments and payees through the Payman API. Built with React, TypeScript, and Tailwind CSS.
+Designed for startups, DAOs, open-source collectives, and modern teams, this solution automates operational finance with intelligence, reliability, and transparency.
 
-## Features
+ ## What It Does
+Using the Payman AI SDK, the system supports the following automated workflows:
 
-- **Dashboard Overview**: View account balance, payment statistics, and key metrics
-- **Payee Management**: List, search, and manage payment recipients
-- **Payment Processing**: Send payments and track transaction history
-- **Real-time Updates**: Live data from Payman API with fallback to demo data
-- **Responsive Design**: Mobile-first design that works on all devices
-- **Modern UI**: Built with shadcn/ui components and smooth animations
+✅ Fund Bounties: Agents automatically fund new tasks or GitHub issues when matching criteria are met.
 
+🧾 Run Payroll: Schedule and distribute recurring payments to contributors, employees, or freelancers.
+
+💼 Pay Invoices: Detect due invoices and trigger verified payments from your Payman wallet.
+
+💸 Refund Failed Tasks: Automatically detect and refund payees if a deliverable or task fails validation.
+
+🤝 Split Profits: Share revenues with stakeholders, team members, or token holders based on predefined logic.
+
+💬 Natural Language Triggers: Interact with agents via human-friendly prompts (e.g., “pay contributors from last sprint”).
+
+ ## Use Cases
+DAOs & Web3 Communities: Automatically reward contributors and share community earnings.
+
+Startups & SMBs: Automate team payouts and invoice flows with minimal engineering effort.
+
+Open Source Projects: Reward merged PRs or distribute sponsorship earnings to maintainers.
+
+Freelance Collectives: Split project revenue, handle contracts, and pay talent without overhead.
 ## Technologies Used
 
 - **Frontend**: React 18, TypeScript, Vite
