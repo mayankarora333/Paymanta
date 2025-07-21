@@ -17,6 +17,7 @@ export default {
 				'2xl': '1400px'
 			}
 		},
+		// here is the final new section
 		extend: {
 			colors: {
 				border: 'hsl(var(--border))',
